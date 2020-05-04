@@ -1,0 +1,5 @@
+Arabic, Hummus, 5, 7.99#
+Chinese, SweetNSourChicken, 4, 5.00#
+Mexican, Taco, 3, 2.49#
+Indian, Curry, 5, 6.99#
+American, Cheeseburger, 4, 2.25#

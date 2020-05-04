@@ -1,0 +1,4 @@
+Movie, Spawn, 8:00pm, 9.99#
+Play-Area, Laser-Tag, 12:00pm, 5.99#
+Comedy-Show, Seinfeld, 7:00pm, 49.99#
+Magic-Show, Nostradomus, 11:00pm, 19.99#

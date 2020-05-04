@@ -1,0 +1,5 @@
+Toys, Monopoly, 9.99, 5#
+Electronics, PS3, 299.99, 10#
+Furniture, Couch, 99.99, 2#
+Clothing, Jacket, 199.99, 6#
+Grocery, Apples, 15.99, 20#
