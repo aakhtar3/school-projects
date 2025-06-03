@@ -32,3 +32,9 @@ Projects from undergraduate and graduate
 ### Network Science
 
 - [Escort](https://github.com/aakhtar3/school-projects/tree/master/network-science/Escort) 2017
+
+### Security
+
+- [Flipper Zero](https://github.com/aakhtar3/school-projects/tree/master/security/flipper-zero) 2023
+- [Serverless API](https://github.com/aakhtar3/school-projects/tree/master/security/serverless-api) 2024
+- [Mining Menero](https://github.com/aakhtar3/school-projects/tree/master/security/mining-menero) 2024
